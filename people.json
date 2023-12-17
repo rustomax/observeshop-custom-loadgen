@@ -1,0 +1,716 @@
+[
+  {
+    "email": "maria.gonzalez@ibm.com",
+    "uuid": "20277bb8-537d-4aae-a71c-8b62a2f71c7b",
+    "first_name": "Maria",
+    "last_name": "Gonzalez",
+    "company": "IBM",
+    "address": {
+      "streetAddress": "1 New Orchard Road",
+      "zipCode": "10504",
+      "city": "Armonk",
+      "state": "NY",
+      "country": "United States",
+      "phone": "212-555-1234",
+      "latitude": 41.1091,
+      "longitude": -73.7247
+    },
+    "userCurrency": "USD",
+    "creditCard": {
+      "creditCardNumber": "4206-7361-4373-6562",
+      "creditCardExpirationMonth": 6,
+      "creditCardExpirationYear": 2029,
+      "creditCardCvv": 456
+    }
+  },
+  {
+    "email": "liam.murphy@siemens.com",
+    "uuid": "801d10f9-9539-4134-8d6d-8e95ab7cd407",
+    "first_name": "Liam",
+    "last_name": "Murphy",
+    "company": "Siemens",
+    "address": {
+      "streetAddress": "Wittelsbacherplatz 2",
+      "zipCode": "80333",
+      "city": "Munich",
+      "state": "Bavaria",
+      "country": "Germany",
+      "phone": "089-555-1234",
+      "latitude": 48.1425,
+      "longitude": 11.5684
+    },
+    "userCurrency": "EUR",
+    "creditCard": {
+      "creditCardNumber": "4432-8015-6152-0454",
+      "creditCardExpirationMonth": 10,
+      "creditCardExpirationYear": 2031,
+      "creditCardCvv": 789
+    }
+  },
+  {
+    "email": "sophie.leroux@loreal.com",
+    "uuid": "5f6b252c-d267-4fd0-bd3a-c253f4f93761",
+    "first_name": "Sophie",
+    "last_name": "Leroux",
+    "company": "L'Oreal",
+    "address": {
+      "streetAddress": "41 Rue Martre",
+      "zipCode": "92110",
+      "city": "Clichy",
+      "state": "Île-de-France",
+      "country": "France",
+      "phone": "01-555-1234",
+      "latitude": 0,
+      "longitude": 0
+    },
+    "userCurrency": "EUR",
+    "creditCard": {
+      "creditCardNumber": "4545-5918-5959-5797",
+      "creditCardExpirationMonth": 4,
+      "creditCardExpirationYear": 2030,
+      "creditCardCvv": 123
+    }
+  },
+  {
+    "email": "david.johnson@ford.com",
+    "uuid": "34262858-24f0-4b4d-9bda-e50f2369ffc6",
+    "first_name": "David",
+    "last_name": "Johnson",
+    "company": "Ford",
+    "address": {
+      "streetAddress": "1 American Rd",
+      "zipCode": "48126",
+      "city": "Dearborn",
+      "state": "MI",
+      "country": "United States",
+      "phone": "313-555-1234",
+      "latitude": 0,
+      "longitude": 0
+    },
+    "userCurrency": "USD",
+    "creditCard": {
+      "creditCardNumber": "4938-4889-2628-9287",
+      "creditCardExpirationMonth": 9,
+      "creditCardExpirationYear": 2032,
+      "creditCardCvv": 321
+    }
+  },
+  {
+    "email": "emily.clarkson@unilever.com",
+    "uuid": "972a6ea0-4b39-4078-80ba-fd9dda81eb6f",
+    "first_name": "Emily",
+    "last_name": "Clarkson",
+    "company": "Unilever",
+    "address": {
+      "streetAddress": "Port Sunlight",
+      "zipCode": "CH62 4ZD",
+      "city": "Wirral",
+      "state": "Merseyside",
+      "country": "United Kingdom",
+      "phone": "0151-555-1234",
+      "latitude": 0,
+      "longitude": 0
+    },
+    "userCurrency": "GBP",
+    "creditCard": {
+      "creditCardNumber": "4155-7192-1409-4963",
+      "creditCardExpirationMonth": 1,
+      "creditCardExpirationYear": 2028,
+      "creditCardCvv": 234
+    }
+  },
+  {
+    "uuid": "123e4567-e89b-12d3-a456-426655440000",
+    "email": "julia.martinez@bosch.com",
+    "first_name": "Julia",
+    "last_name": "Martinez",
+    "company": "Bosch",
+    "address": {
+      "streetAddress": "Gerlinger Strasse 7",
+      "zipCode": "70839",
+      "city": "Gerlingen",
+      "state": "Baden-Württemberg",
+      "country": "Germany",
+      "phone": "0711-811-0",
+      "latitude": 0,
+      "longitude": 0
+    },
+    "userCurrency": "EUR",
+    "creditCard": {
+      "creditCardNumber": "4004-2009-6461-7132",
+      "creditCardExpirationMonth": 10,
+      "creditCardExpirationYear": 2027,
+      "creditCardCvv": 202
+    }
+  },
+  {
+    "uuid": "f0b1c7d5-9a84-4e07-bd4c-7b1d9b6345b0",
+    "email": "khalid.ahmed@shell.com",
+    "first_name": "Khalid",
+    "last_name": "Ahmed",
+    "company": "Shell",
+    "address": {
+      "streetAddress": "Carel van Bylandtlaan 30",
+      "zipCode": "2596 HR",
+      "city": "The Hague",
+      "state": "South Holland",
+      "country": "Netherlands",
+      "phone": "070-377-9111",
+      "latitude": 0,
+      "longitude": 0
+    },
+    "userCurrency": "EUR",
+    "creditCard": {
+      "creditCardNumber": "4264-3456-7890-1234",
+      "creditCardExpirationMonth": 12,
+      "creditCardExpirationYear": 2029,
+      "creditCardCvv": 456
+    }
+  },
+  {
+    "uuid": "1a2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6p",
+    "email": "sophia.jones@bmw.com",
+    "first_name": "Sophia",
+    "last_name": "Jones",
+    "company": "BMW",
+    "address": {
+      "streetAddress": "Petuelring 130",
+      "zipCode": "80788",
+      "city": "Munich",
+      "state": "Bavaria",
+      "country": "Germany",
+      "phone": "089-1250-16000",
+      "latitude": 0,
+      "longitude": 0
+    },
+    "userCurrency": "EUR",
+    "creditCard": {
+      "creditCardNumber": "4643-1961-5093-8380",
+      "creditCardExpirationMonth": 5,
+      "creditCardExpirationYear": 2031,
+      "creditCardCvv": 321
+    }
+  },
+  {
+    "uuid": "9a87b6c5-d4e3-f2g1-h3i4-j5k6l7m8n9o0",
+    "email": "michael.brown@amazon.com",
+    "first_name": "Michael",
+    "last_name": "Brown",
+    "company": "Amazon",
+    "address": {
+      "streetAddress": "410 Terry Ave N",
+      "zipCode": "98109",
+      "city": "Seattle",
+      "state": "WA",
+      "country": "United States",
+      "phone": "206-266-1000",
+      "latitude": 0,
+      "longitude": 0
+    },
+    "userCurrency": "USD",
+    "creditCard": {
+      "creditCardNumber": "4409-0253-4481-2124",
+      "creditCardExpirationMonth": 8,
+      "creditCardExpirationYear": 2030,
+      "creditCardCvv": 123
+    }
+  },
+  {
+    "uuid": "12345678-90ab-cdef-1234-567890abcdef",
+    "email": "li.feng@huawei.com",
+    "first_name": "Li",
+    "last_name": "Feng",
+    "company": "Huawei",
+    "address": {
+      "streetAddress": "Böblingen",
+      "zipCode": "71034",
+      "city": "Böblingen",
+      "state": "Baden-Württemberg",
+      "country": "Germany",
+      "phone": "07031-1430-0",
+      "latitude": 0,
+      "longitude": 0
+    },
+    "userCurrency": "EUR",
+    "creditCard": {
+      "creditCardNumber": "4220-7037-3440-9928",
+      "creditCardExpirationMonth": 3,
+      "creditCardExpirationYear": 2028,
+      "creditCardCvv": 987
+    }
+  },
+  {
+    "uuid": "abcdef12-3456-7890-abcd-ef1234567890",
+    "email": "emily.clark@tesla.com",
+    "first_name": "Emily",
+    "last_name": "Clark",
+    "company": "Tesla",
+    "address": {
+      "streetAddress": "3500 Deer Creek Road",
+      "zipCode": "94304",
+      "city": "Palo Alto",
+      "state": "CA",
+      "country": "United States",
+      "phone": "650-681-5000",
+      "latitude": 0,
+      "longitude": 0
+    },
+    "userCurrency": "USD",
+    "creditCard": {
+      "creditCardNumber": "4835-9010-6745-0843",
+      "creditCardExpirationMonth": 4,
+      "creditCardExpirationYear": 2032,
+      "creditCardCvv": 654
+    }
+  },
+  {
+    "uuid": "f1e2d3c4-b5a6-789b-c8d9-e0f1a2b3c4d5",
+    "email": "james.wilson@unilever.com",
+    "first_name": "James",
+    "last_name": "Wilson",
+    "company": "Unilever",
+    "address": {
+      "streetAddress": "100 Victoria Embankment",
+      "zipCode": "EC4Y 0DY",
+      "city": "London",
+      "state": "England",
+      "country": "United Kingdom",
+      "phone": "020-7822-5252",
+      "latitude": 0,
+      "longitude": 0
+    },
+    "userCurrency": "GBP",
+    "creditCard": {
+      "creditCardNumber": "4627-4978-9542-5232",
+      "creditCardExpirationMonth": 9,
+      "creditCardExpirationYear": 2033,
+      "creditCardCvv": 778,
+      "latitude": 0,
+      "longitude": 0
+    }
+  },
+  {
+    "uuid": "0a1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d",
+    "email": "sarah.davis@siemens.com",
+    "first_name": "Sarah",
+    "last_name": "Davis",
+    "company": "Siemens",
+    "address": {
+      "streetAddress": "Werner-von-Siemens-Straße 1",
+      "zipCode": "80333",
+      "city": "Munich",
+      "state": "Bavaria",
+      "country": "Germany",
+      "phone": "089-636-00",
+      "latitude": 0,
+      "longitude": 0
+    },
+    "userCurrency": "EUR",
+    "creditCard": {
+      "creditCardNumber": "4024-5588-6487-2842",
+      "creditCardExpirationMonth": 11,
+      "creditCardExpirationYear": 2034,
+      "creditCardCvv": 890
+    }
+  },
+  {
+    "uuid": "0f1e2d3c-4b5a-6789-0c1d-2e3f4a5b6c7d",
+    "email": "david.martin@airbus.com",
+    "first_name": "David",
+    "last_name": "Martin",
+    "company": "Airbus",
+    "address": {
+      "streetAddress": "1 Rond-Point Maurice Bellonte",
+      "zipCode": "31707",
+      "city": "Blagnac",
+      "state": "Occitanie",
+      "country": "France",
+      "phone": "05-61123123",
+      "latitude": 0,
+      "longitude": 0
+    },
+    "userCurrency": "EUR",
+    "creditCard": {
+      "creditCardNumber": "4767-9244-9097-0015",
+      "creditCardExpirationMonth": 6,
+      "creditCardExpirationYear": 2035,
+      "creditCardCvv": 313
+    }
+  },
+  {
+    "uuid": "7e6f5d4c-3b2a-1d0e-8f7g-6h5i4j3k2l1m",
+    "email": "alexis.thompson@ibm.com",
+    "first_name": "Alexis",
+    "last_name": "Thompson",
+    "company": "IBM",
+    "address": {
+      "streetAddress": "1 New Orchard Road",
+      "zipCode": "10504",
+      "city": "Armonk",
+      "state": "NY",
+      "country": "United States",
+      "phone": "914-499-1900",
+      "latitude": 0,
+      "longitude": 0
+    },
+    "userCurrency": "USD",
+    "creditCard": {
+      "creditCardNumber": "4535-4987-9002-5128",
+      "creditCardExpirationMonth": 2,
+      "creditCardExpirationYear": 2036,
+      "creditCardCvv": 456,
+      "latitude": 0,
+      "longitude": 0
+    }
+  },
+  {
+    "email": "larry_sergei@example.com",
+    "uuid": "deb0b71f-9c44-4737-917a-3a0a42129b99",
+    "first_name": "Larry",
+    "last_name": "Page",
+    "company": "Google",
+    "address": {
+      "streetAddress": "1600 Amphitheatre Parkway",
+      "zipCode": "94043",
+      "city": "Mountain View",
+      "state": "CA",
+      "country": "United States",
+      "latitude": 0,
+      "longitude": 0
+    },
+    "userCurrency": "USD",
+    "creditCard": {
+      "creditCardNumber": "4695-3662-0699-3955",
+      "creditCardExpirationMonth": 1,
+      "creditCardExpirationYear": 2039,
+      "creditCardCvv": 672
+    }
+  },
+  {
+    "email": "bill@example.com",
+    "uuid": "c9dbfa8d-ca2d-4b4e-9bdf-c57c61ed29d1",
+    "first_name": "Bill",
+    "last_name": "Gates",
+    "company": "Microsoft",
+    "address": {
+      "streetAddress": "One Microsoft Way",
+      "zipCode": "98052",
+      "city": "Redmond",
+      "state": "WA",
+      "country": "United States",
+      "latitude": 0,
+      "longitude": 0
+    },
+    "userCurrency": "USD",
+    "creditCard": {
+      "creditCardNumber": "4455-1260-2910-5975",
+      "creditCardExpirationMonth": 2,
+      "creditCardExpirationYear": 2039,
+      "creditCardCvv": 114
+    }
+  },
+  {
+    "email": "steve@example.com",
+    "uuid": "3ab4cefb-bb70-43fd-8304-a3df4a64ceca",
+    "first_name": "Steve",
+    "last_name": "Jobs",
+    "company": "Apple",
+    "address": {
+      "streetAddress": "One Apple Park Way",
+      "zipCode": "95014",
+      "city": "Cupertino",
+      "state": "CA",
+      "country": "United States",
+      "latitude": 0,
+      "longitude": 0
+    },
+    "userCurrency": "USD",
+    "creditCard": {
+      "creditCardNumber": "4280-2821-1310-6642",
+      "creditCardExpirationMonth": 3,
+      "creditCardExpirationYear": 2039,
+      "creditCardCvv": 239
+    }
+  },
+  {
+    "email": "mark@example.com",
+    "uuid": "7063651e-b5c0-4926-b9fb-abf8105494f4",
+    "first_name": "Mark",
+    "last_name": "Zukerberg",
+    "company": "Meta",
+    "address": {
+      "streetAddress": "1 Hacker Way",
+      "zipCode": "94025",
+      "city": "Menlo Park",
+      "state": "CA",
+      "country": "United States",
+      "latitude": 0,
+      "longitude": 0
+    },
+    "userCurrency": "USD",
+    "creditCard": {
+      "creditCardNumber": "4197-6362-6888-1584",
+      "creditCardExpirationMonth": 4,
+      "creditCardExpirationYear": 2039,
+      "creditCardCvv": 784
+    }
+  },
+  {
+    "email": "jeff@example.com",
+    "uuid": "503c0a60-e28a-4a70-879c-99fbf8e27b48",
+    "first_name": "Jeffrey",
+    "last_name": "Bezos",
+    "company": "Amazon",
+    "address": {
+      "streetAddress": "410 Terry Ave N",
+      "zipCode": "98109",
+      "city": "Seattle",
+      "state": "WA",
+      "country": "United States",
+      "latitude": 0,
+      "longitude": 0
+    },
+    "userCurrency": "USD",
+    "creditCard": {
+      "creditCardNumber": "4712-5915-7921-2910",
+      "creditCardExpirationMonth": 5,
+      "creditCardExpirationYear": 2039,
+      "creditCardCvv": 397
+    }
+  },
+  {
+    "email": "reed@example.com",
+    "uuid": "fb1ed56c-7fdf-44ed-9868-5ea891c46567",
+    "first_name": "Reed",
+    "last_name": "Hastings",
+    "company": "Netflix",
+    "address": {
+      "streetAddress": "100 Winchester Circle",
+      "zipCode": "95032",
+      "city": "Los Gatos",
+      "state": "CA",
+      "country": "United States",
+      "latitude": 0,
+      "longitude": 0
+    },
+    "userCurrency": "USD",
+    "creditCard": {
+      "creditCardNumber": "4837-4536-2515-6387",
+      "creditCardExpirationMonth": 6,
+      "creditCardExpirationYear": 2039,
+      "creditCardCvv": 793
+    }
+  },
+  {
+    "email": "tobias@example.com",
+    "uuid": "ec31a0ce-b3af-473d-92c8-933c6eeaca3b",
+    "first_name": "Tobias",
+    "last_name": "Lütke",
+    "company": "Shopify",
+    "address": {
+      "streetAddress": "150 Elgin St",
+      "zipCode": "K2P1L4",
+      "city": "Ottawa",
+      "state": "ON",
+      "country": "Canada",
+      "latitude": 0,
+      "longitude": 0
+    },
+    "userCurrency": "CAD",
+    "creditCard": {
+      "creditCardNumber": "4763-1844-9699-8031",
+      "creditCardExpirationMonth": 7,
+      "creditCardExpirationYear": 2039,
+      "creditCardCvv": 488
+    }
+  },
+  {
+    "email": "max@observeinc.com",
+    "uuid": "9f279382-e26d-4410-b713-80e735e7ea83",
+    "first_name": "Max",
+    "last_name": "Skybin",
+    "company": "Observe",
+    "address": {
+      "streetAddress": "520 S El Camino Real",
+      "zipCode": "94402",
+      "city": "San Mateo",
+      "state": "CA",
+      "country": "United States",
+      "latitude": 37.554169,
+      "longitude": -122.313057
+    },
+    "userCurrency": "USD",
+    "creditCard": {
+      "creditCardNumber": "4725-4170-6093-6947",
+      "creditCardExpirationMonth": 6,
+      "creditCardExpirationYear": 2039,
+      "creditCardCvv": 793
+    }
+  },
+  {
+    "email": "ayan.raj@infosys.com",
+    "uuid": "5c1f6a2e-3b4d-48a8-9d21-5c2a76b4c5d6",
+    "first_name": "Ayan",
+    "last_name": "Raj",
+    "company": "Infosys",
+    "address": {
+      "streetAddress": "Electronic City, Hosur Road",
+      "zipCode": "560100",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "phone": "080-2852-0261",
+      "latitude": 0,
+      "longitude": 0
+    },
+    "userCurrency": "INR",
+    "creditCard": {
+      "creditCardNumber": "4959-5286-2028-4243",
+      "creditCardExpirationMonth": 12,
+      "creditCardExpirationYear": 2033,
+      "creditCardCvv": 321
+    }
+  },
+  {
+    "email": "tanya.johnson@nike.com",
+    "uuid": "8d2c9b7a-fc3e-4e11-bf95-3d1a4b8b9c7e",
+    "first_name": "Tanya",
+    "last_name": "Johnson",
+    "company": "Nike",
+    "address": {
+      "streetAddress": "1 Bowerman Dr",
+      "zipCode": "97005",
+      "city": "Beaverton",
+      "state": "OR",
+      "country": "United States",
+      "phone": "503-671-6453",
+      "latitude": 0,
+      "longitude": 0
+    },
+    "userCurrency": "USD",
+    "creditCard": {
+      "creditCardNumber": "4884-9021-3501-1898",
+      "creditCardExpirationMonth": 6,
+      "creditCardExpirationYear": 2034,
+      "creditCardCvv": 456
+    }
+  },
+  {
+    "email": "jack@example.com",
+    "uuid": "c42cdf46-8008-4977-8ff1-74d53c911d9e",
+    "first_name": "Jack",
+    "last_name": "Dorsey",
+    "company": "Block, Inc",
+    "address": {
+      "streetAddress": "1455 Market St",
+      "zipCode": "94103",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "United States",
+      "latitude": 0,
+      "longitude": 0
+    },
+    "userCurrency": "USD",
+    "creditCard": {
+      "creditCardNumber": "4929-6495-8333-3657",
+      "creditCardExpirationMonth": 8,
+      "creditCardExpirationYear": 2039,
+      "creditCardCvv": 159
+    }
+  },
+  {
+    "email": "javier.martinez@bbva.com",
+    "uuid": "22b4c8f6-a3d5-4b5b-8c8d-2a1f3b6c7d8e",
+    "first_name": "Javier",
+    "last_name": "Martinez",
+    "company": "BBVA",
+    "address": {
+      "streetAddress": "Plaza de San Nicolás, 4",
+      "zipCode": "48005",
+      "city": "Bilbao",
+      "state": "Biscay",
+      "country": "Spain",
+      "phone": "944-245-824",
+      "latitude": 0,
+      "longitude": 0
+    },
+    "userCurrency": "EUR",
+    "creditCard": {
+      "creditCardNumber": "4345-4299-9350-6341",
+      "creditCardExpirationMonth": 8,
+      "creditCardExpirationYear": 2035,
+      "creditCardCvv": 789
+    }
+  },
+  {
+    "email": "moore@example.com",
+    "uuid": "2645afb1-1bbf-4035-b2b8-42a4a693a66c",
+    "first_name": "Gordon",
+    "last_name": "Moore",
+    "company": "Intel",
+    "address": {
+      "streetAddress": "2200 Mission College Blvd",
+      "zipCode": "95054",
+      "city": "Santa Clara",
+      "state": "CA",
+      "country": "United States",
+      "latitude": 0,
+      "longitude": 0
+    },
+    "userCurrency": "USD",
+    "creditCard": {
+      "creditCardNumber": "4485-4803-8707-3547",
+      "creditCardExpirationMonth": 9,
+      "creditCardExpirationYear": 2039,
+      "creditCardCvv": 682
+    }
+  },
+  {
+    "email": "yara.abdullah@aramco.com",
+    "uuid": "3e4b5c6d-7f8g-9h0j-1k2l-3m4n5o6p7q8r",
+    "first_name": "Yara",
+    "last_name": "Abdullah",
+    "company": "Aramco",
+    "address": {
+      "streetAddress": "Dhahran",
+      "zipCode": "31311",
+      "city": "Dhahran",
+      "state": "Eastern Province",
+      "country": "Saudi Arabia",
+      "phone": "013-872-0115",
+      "latitude": 0,
+      "longitude": 0
+    },
+    "userCurrency": "SAR",
+    "creditCard": {
+      "creditCardNumber": "4914-7562-2799-5432",
+      "creditCardExpirationMonth": 3,
+      "creditCardExpirationYear": 2036,
+      "creditCardCvv": 234
+    }
+  },
+  {
+    "email": "chloe.dubois@airbus.com",
+    "uuid": "9r8s7t6u-5v4w-3x2y-1z0a-2b3c4d5e6f7g",
+    "first_name": "Chloe",
+    "last_name": "Dubois",
+    "company": "Airbus",
+    "address": {
+      "streetAddress": "1 Rond-Point Maurice Bellonte",
+      "zipCode": "31707",
+      "city": "Blagnac",
+      "state": "Occitanie",
+      "country": "France",
+      "phone": "05-61123123",
+      "latitude": 0,
+      "longitude": 0
+    },
+    "userCurrency": "EUR",
+    "creditCard": {
+      "creditCardNumber": "4648-4283-2337-3319",
+      "creditCardExpirationMonth": 11,
+      "creditCardExpirationYear": 2037,
+      "creditCardCvv": 567
+    }
+  }
+]
