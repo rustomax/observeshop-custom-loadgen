@@ -71,3 +71,13 @@ Dec 17 18:31:44 europa service-run.sh[4014]: [2023-12-17 18:31:44,003] europa/IN
 Dec 17 18:31:44 europa service-run.sh[4014]: [2023-12-17 18:31:44,005] europa/INFO/locust.runners: Ramping to 40 users at a rate of 1.00 per second
 Dec 17 18:32:23 europa service-run.sh[4014]: [2023-12-17 18:32:23,047] europa/INFO/locust.runners: All users spawned: {"WebsiteUser": 40} (40 total users)
 ```
+
+## Troubleshooting
+
+If you are running into open file limits, up the corresponding ulimits for the user executing locust scripts, i.e.:
+
+```
+# /etc/security/limits.conf
+max              hard    nofile 100000
+max              soft    nofile 100000
+```
