@@ -60,8 +60,8 @@
       "state": "Île-de-France",
       "country": "France",
       "phone": "01-555-1234",
-      "latitude": 0,
-      "longitude": 0
+      "latitude": 48.9003,
+      "longitude": 2.3082
     },
     "userCurrency": "EUR",
     "creditCard": {
@@ -84,8 +84,8 @@
       "state": "MI",
       "country": "United States",
       "phone": "313-555-1234",
-      "latitude": 0,
-      "longitude": 0
+      "latitude": 42.3153,
+      "longitude": -83.2103
     },
     "userCurrency": "USD",
     "creditCard": {
@@ -102,14 +102,14 @@
     "last_name": "Clarkson",
     "company": "Unilever",
     "address": {
-      "streetAddress": "Port Sunlight",
-      "zipCode": "CH62 4ZD",
-      "city": "Wirral",
-      "state": "Merseyside",
+      "streetAddress": "100 Victoria Embankment",
+      "zipCode": "EC4Y 0DY",
+      "city": "London",
+      "state": "England",
       "country": "United Kingdom",
-      "phone": "0151-555-1234",
-      "latitude": 0,
-      "longitude": 0
+      "phone": "020-7822-5252",
+      "latitude":  51.511654,
+      "longitude": -0.104671
     },
     "userCurrency": "GBP",
     "creditCard": {
@@ -132,8 +132,8 @@
       "state": "Baden-Württemberg",
       "country": "Germany",
       "phone": "0711-811-0",
-      "latitude": 0,
-      "longitude": 0
+      "latitude": 38.897676,
+      "longitude": -77.036530
     },
     "userCurrency": "EUR",
     "creditCard": {
@@ -156,8 +156,8 @@
       "state": "South Holland",
       "country": "Netherlands",
       "phone": "070-377-9111",
-      "latitude": 0,
-      "longitude": 0
+      "latitude": 52.0932,
+      "longitude": 4.3133
     },
     "userCurrency": "EUR",
     "creditCard": {
@@ -180,8 +180,8 @@
       "state": "Bavaria",
       "country": "Germany",
       "phone": "089-1250-16000",
-      "latitude": 0,
-      "longitude": 0
+      "latitude": 52.0932,
+      "longitude": 4.3133
     },
     "userCurrency": "EUR",
     "creditCard": {
@@ -204,8 +204,8 @@
       "state": "WA",
       "country": "United States",
       "phone": "206-266-1000",
-      "latitude": 0,
-      "longitude": 0
+      "latitude": 47.6221942,
+      "longitude": -122.3365534
     },
     "userCurrency": "USD",
     "creditCard": {
@@ -222,14 +222,14 @@
     "last_name": "Feng",
     "company": "Huawei",
     "address": {
-      "streetAddress": "Böblingen",
+      "streetAddress": "Huawei Base",
       "zipCode": "71034",
-      "city": "Böblingen",
-      "state": "Baden-Württemberg",
-      "country": "Germany",
-      "phone": "07031-1430-0",
-      "latitude": 0,
-      "longitude": 0
+      "city": "Shenzhen",
+      "state": "Longgang District",
+      "country": "China",
+      "phone": "86 755 28780808",
+      "latitude": 22.720802,
+      "longitude": 114.245117
     },
     "userCurrency": "EUR",
     "creditCard": {
@@ -252,8 +252,8 @@
       "state": "CA",
       "country": "United States",
       "phone": "650-681-5000",
-      "latitude": 0,
-      "longitude": 0
+      "latitude": 37.3955,
+      "longitude": -122.1500
     },
     "userCurrency": "USD",
     "creditCard": {
@@ -276,8 +276,8 @@
       "state": "England",
       "country": "United Kingdom",
       "phone": "020-7822-5252",
-      "latitude": 0,
-      "longitude": 0
+      "latitude":  51.511654,
+      "longitude": -0.104671
     },
     "userCurrency": "GBP",
     "creditCard": {
@@ -302,8 +302,8 @@
       "state": "Bavaria",
       "country": "Germany",
       "phone": "089-636-00",
-      "latitude": 0,
-      "longitude": 0
+      "latitude": 48.1425,
+      "longitude": 11.5684
     },
     "userCurrency": "EUR",
     "creditCard": {
@@ -350,8 +350,8 @@
       "state": "NY",
       "country": "United States",
       "phone": "914-499-1900",
-      "latitude": 0,
-      "longitude": 0
+      "latitude": 41.1091,
+      "longitude": -73.7247
     },
     "userCurrency": "USD",
     "creditCard": {
@@ -711,6 +711,30 @@
       "creditCardExpirationMonth": 11,
       "creditCardExpirationYear": 2037,
       "creditCardCvv": 567
+    }
+  },
+  {
+    "email": "vaino@observeshop.com",
+    "uuid": "a1b2c3d4-e5f6-7g8h-9i0j-1k2l3m4n5o6p",
+    "first_name": "Väinö",
+    "last_name": "Korhonen",
+    "company": "Nokia",
+    "address": {
+        "streetAddress": "Karaportti 3",
+        "zipCode": "02610",
+        "city": "Espoo",
+        "state": "Uusimaa",
+        "country": "Finland",
+        "phone": "+358 10 4488000",
+        "latitude": 0,
+        "longitude": 0
+    },
+    "userCurrency": "EUR",
+    "creditCard": {
+        "creditCardNumber": "4050-6931-2947-8981",
+        "creditCardExpirationMonth": 12,
+        "creditCardExpirationYear": 2025,
+        "creditCardCvv": 123
     }
   }
 ]

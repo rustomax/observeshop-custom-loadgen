@@ -4,7 +4,8 @@ import sys
 
 # Check if the file path is provided as a command line argument
 if len(sys.argv) != 2:
-    print("Usage: script.py <path_to_json_file>")
+    print("Usage: python3 ./pushdata.py <path_to_json_file>")
+    print("   ex: python3 ./pushdata.py people.json")
     sys.exit(1)
 
 # Set the path of the JSON file from the command line argument
