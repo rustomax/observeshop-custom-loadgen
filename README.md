@@ -72,6 +72,14 @@ Dec 17 18:31:44 europa service-run.sh[4014]: [2023-12-17 18:31:44,005] europa/IN
 Dec 17 18:32:23 europa service-run.sh[4014]: [2023-12-17 18:32:23,047] europa/INFO/locust.runners: All users spawned: {"WebsiteUser": 20} (20 total users)
 ```
 
+## Scheduled restarts
+
+Locust seems to get bogged down if it runs for too long. You may consider setting up a (root) crontjob to restart it on a regular basis, i.e. every 12 hours:
+
+```cron
+0 */12 * * * systemctl restart locust.service
+```
+
 ## Troubleshooting
 
 If you are running into open file limits, up the corresponding ulimits for the user executing locust scripts, i.e.:
