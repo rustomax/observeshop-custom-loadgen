@@ -74,7 +74,7 @@ Dec 17 18:32:23 europa service-run.sh[4014]: [2023-12-17 18:32:23,047] europa/IN
 
 ## Scheduled restarts
 
-Locust seems to get bogged down if it runs for too long. You may consider setting up a (root) crontjob to restart it on a regular basis, i.e. every 12 hours:
+Locust seems to get bogged down if it runs for too long. You may consider setting up a (root) cron job to restart it on a regular basis, i.e. every 12 hours:
 
 ```cron
 0 */12 * * * systemctl restart locust.service
